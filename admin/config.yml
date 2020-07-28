@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: arshinashaik/arshinashaik.github.io
+  repo: arshinashaik/myblog
   branch: gh-pages
   site_domain: pedantic-kowalevski-e6ff51.netlify.com
 
